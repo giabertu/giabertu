@@ -1,8 +1,12 @@
-### Hi there 👋
+Hi 👋 My name is Gianni
+================================
 
-My name is Gianni and I am a Full Stack developer! Currently attending university and working part time 👨🏻‍💻 
+Full Stack Developer
+--------------------
 
-Browse around my repos or take a look at my [LinkedIn](https://www.linkedin.com/in/gianni-bertuzzi/) 
+* 🌍  I'm based in London
+* ✉️  You can contact me at [giabertu99@gmail.com](mailto:giabertu99@gmail.com) and on [LinkedIn](https://www.linkedin.com/in/gianni-bertuzzi/)
+* 🤝  I'm open to collaborating on environmental/web3 projects
 
 
 [![Gianni's GitHub stats](https://github-readme-stats.vercel.app/api?username=giabertu&count_private=true&show_icons=true&theme=tokyonight&custom_title=Gianni\'s%20Github%20Stats%20🌱&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
