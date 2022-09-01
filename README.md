@@ -1,7 +1,7 @@
 Hi 👋 My name is Gianni
 ================================
 
-Full Stack Developer
+Developer
 --------------------
 
 * 🌍  I'm based in London
