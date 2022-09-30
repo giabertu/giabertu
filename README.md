@@ -6,7 +6,7 @@ Developer
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [giabertu99@gmail.com](mailto:giabertu99@gmail.com) and on [LinkedIn](https://www.linkedin.com/in/gianni-bertuzzi/)
-* 🤝  I'm open to collaborating on environmental/web3 projects
+* 🤝  I'm open to collaborating on open source bitcoin projects
 
 
 [![Gianni's GitHub stats](https://github-readme-stats.vercel.app/api?username=giabertu&count_private=true&show_icons=true&theme=tokyonight&custom_title=Gianni\'s%20Github%20Stats%20🌱&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
