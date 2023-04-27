@@ -9,15 +9,16 @@ Developer
 * 🤝  I'm open to collaborating on open source bitcoin projects
 
 
-[![Gianni's GitHub stats](https://github-readme-stats.vercel.app/api?username=giabertu&count_private=true&show_icons=true&theme=tokyonight&custom_title=Gianni\'s%20Github%20Stats%20🌱&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giabertu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
 **giabertu/giabertu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+\Here are some ideas to get you started:
+
+[![Gianni's GitHub stats](https://github-readme-stats.vercel.app/api?username=giabertu&count_private=true&show_icons=true&theme=tokyonight&custom_title=Gianni\'s%20Github%20Stats%20🌱&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giabertu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
